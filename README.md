@@ -1,3 +1,5 @@
+# Run Stable Diffusion web UI With Only CPU
+
 # Stable Diffusion web UI
 A browser interface based on Gradio library for Stable Diffusion.
 
